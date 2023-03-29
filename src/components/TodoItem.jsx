@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const TodoItem = ({ itemProp, handleChange, delTodo }) => (
   <li>
     <input
